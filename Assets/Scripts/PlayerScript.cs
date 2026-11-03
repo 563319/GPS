@@ -11,6 +11,6 @@ public class PlayerScript : MonoBehaviour
     
     void Update()
     {
-        //print("hello");
+        
     }
 }
